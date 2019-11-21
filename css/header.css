@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    font-family: Tahoma;
+    font-style: 24px;
+    background: #242337;
+    color: white;
+    margin: auto;
+    padding: auto;
+}
+.logo{
+    width: 100%;
+    margin: 0px;
+    padding:0px;
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+.logo img{
+    width: 100%;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left: auto;
+    padding-right: auto;
+}
+.search{
+    width: 100%;
+    margin: 0px;
+    display: block;
+    padding-top: 25px;
+
+}
+.shopping-cart{
+    width:100%;
+    margin: 0px;
+margin-top: 15px;
+
+}.shopping-cart button{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: Arial;
+ }
+
+
+
