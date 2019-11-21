@@ -21,13 +21,12 @@ body{
     display: block;
     margin: auto;
     padding: auto;
+
 }
 .logo img{
-    width: 100%;
-    margin-right: 10px;
-    margin-left: 10px;
-    padding-left: auto;
-    padding-right: auto;
+    width: 150px;
+    padding-top: 6px;
+    margin-left: 30px;
 }
 .search{
     width: 100%;
